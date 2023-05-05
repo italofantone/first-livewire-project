@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rimorsoft.com" target="_blank">Enlace al tutorial</a></p>
+<p align="center"><a href="https://rimorsoft.com/blog/primer-ejemplo-con-laravel-livewire" target="_blank">Enlace al tutorial</a></p>
 
 ## Acerca del tutorial
 
