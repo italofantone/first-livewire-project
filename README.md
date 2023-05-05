@@ -6,7 +6,7 @@ Cuando hablamos de Laravel Livewire nos referimos a una herramienta de Laravel q
 
 Este es el resultado:
 
-![](https://drive.google.com/uc?id=18ieJTsWIR7QzxiiXuUTFAlEDxKRGUm6e)
+![](https://drive.google.com/uc?id=1m34PY5Nz-uPa04DlbM_fu7ApMV_mQqP5)
 
 ## Objetivo
 
