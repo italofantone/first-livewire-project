@@ -6,7 +6,7 @@ Cuando hablamos de Laravel Livewire nos referimos a una herramienta de Laravel q
 
 Este es el resultado:
 
-<p><img src="https://github.com/italomoralesf/first-livewire-project/raw/main/public/aforo-máximo.gif" width="400" alt="Example"></p>
+![](https://drive.google.com/uc?id=18ieJTsWIR7QzxiiXuUTFAlEDxKRGUm6e)
 
 ## Objetivo
 
